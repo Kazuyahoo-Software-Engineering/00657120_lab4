@@ -25,7 +25,7 @@ script:
 
 deploy:
   provider: heroku
-  api_key:
+  api_key:
     secure: dc536d7f-cb3e-4046-b849-5f0098b51a01
   app: lab4haha
   on:
