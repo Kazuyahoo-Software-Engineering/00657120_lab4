@@ -27,7 +27,7 @@ deploy:
   provider: heroku
   api_key:
     secure: $HEROKU_API_KEY
-  app: lab444444444
+  app: lab4haha
   on:
     repo: kazuyahooo/00657120_lab4
     
